@@ -1,4 +1,4 @@
-# Primer Web Scrap 🤖
+# Web Scrap 🤖
 ![Static Badge](https://img.shields.io/badge/Python-3.11.0-green)
 ![Static Badge](https://img.shields.io/badge/Scrapy-2.11.0-blue)
 

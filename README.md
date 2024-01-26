@@ -3,6 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/Scrapy-2.11.0-blue)
 
 - Para este ejercicio se realizará un scrap básico a una web de juegos de mesa https://boardgamegeek.com/
+- Este scrap no utilizará login para todos los registros ya que es un primer ejercicio básico
 - De la lista de todos los juegos de mesa de la web, vamos a adquirir los siguientes datos:
   - Ranking
   - Nombre
